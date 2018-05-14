@@ -1,4 +1,3 @@
-#MCP
 To facilitate communication among stakeholders, software security requirements are typically written in natural language and capture both positive requirements (i.e., what the system is supposed to do to ensure security) and negative requirements (i.e., undesirable behavior undermining security).
 
 Misuse Case Programming (MCP) is an approach that automatically generates security test cases from misuse case specifications (i.e., use case specifications capturing the behavior of malicious users).
