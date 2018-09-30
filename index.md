@@ -7,5 +7,5 @@ MCP tackles the problem of automatically generating executable security test cas
 MCP relies on natural language processing techniques to extract the concepts (e.g., inputs and activities) appearing in requirements specifications and generates executable test cases by matching the extracted concepts to the members of a provided test driver API. MCP has been evaluated in an industrial case study, which provides initial evidence of the feasibility and benefits of the approach.
 
 
-A paper describing MCP has been submitted to ISSRE-2018.
+A paper describing MCP has been accepted at ISSRE-2018, the paper is available at http://orbilu.uni.lu/handle/10993/36301.
 You can download an archive with the MCP results and the MCP tool from the following URL https://drive.google.com/open?id=17NFzK3wKVPhfXcVGfGN_NcA2yosZFLJt
