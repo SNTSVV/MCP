@@ -9,3 +9,7 @@ MCP relies on natural language processing techniques to extract the concepts (e.
 
 A paper describing MCP has been accepted at ISSRE-2018, the paper is available at http://orbilu.uni.lu/handle/10993/36301.
 You can download an archive with the MCP results and the MCP tool from the following URL https://drive.google.com/open?id=17NFzK3wKVPhfXcVGfGN_NcA2yosZFLJt
+
+
+Below, you can watch a video with MCP in action.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
