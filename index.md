@@ -14,3 +14,5 @@ An up to date replicability package for MCP including recent tool advances is av
 
 Below, you can watch a video with MCP in action.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+MCP deals with security testing and has been inspired by a previous work developed for functional tetsing, UMTG. The UMTG prototype is available along with demo videos at the following URL https://sites.google.com/site/umtgtestgen/ .
