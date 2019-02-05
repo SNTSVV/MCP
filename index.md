@@ -31,4 +31,3 @@ A paper the describing the MCP tool wil appear in the proceeding of ICSE 2019.
 An up to date replicability package for MCP including the executable tool and instructions is available for download on GitLab https://gitlab.com/SnTsvv/mcp_replicability/.
 
 
-
