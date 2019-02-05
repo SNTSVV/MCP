@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 To facilitate communication among stakeholders, software security requirements are typically written in natural language and capture both positive requirements (i.e., what the system is supposed to do to ensure security) and negative requirements (i.e., undesirable behavior undermining security).
 
 Misuse Case Programming (MCP) is an approach that automatically generates security test cases from misuse case specifications (i.e., use case specifications capturing the behavior of malicious users).
@@ -15,15 +19,12 @@ You can download an archive with the MCP results and the MCP tool from the follo
 
 A paper the describing the MCP tool wil appear in the proceeding of ICSE 2019.
 
-
 # Downloads
 
 An up to date replicability package for MCP including the executable tool and instructions is available for download on GitLab https://gitlab.com/SnTsvv/mcp_replicability/.
-
 
 # Demo video
 
 Below, you can watch a video with MCP in action.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
