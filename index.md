@@ -19,6 +19,11 @@ Below, you can watch a video with MCP in action.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" marginwidth="pixels" allow="autoplay; encrypted-media"></iframe>
 
 
+# Downloads
+
+An up to date replicability package for MCP including the executable tool and instructions is available for download on GitLab https://gitlab.com/SnTsvv/mcp_replicability/.
+
+
 # Publications
 
 A paper describing MCP has been accepted at ISSRE-2018, the paper is available at http://orbilu.uni.lu/handle/10993/36301.
@@ -26,8 +31,6 @@ You can download an archive with the MCP results and the MCP tool from the follo
 
 A paper the describing the MCP tool wil appear in the proceeding of ICSE 2019.
 
-# Downloads
 
-An up to date replicability package for MCP including the executable tool and instructions is available for download on GitLab https://gitlab.com/SnTsvv/mcp_replicability/.
 
 
