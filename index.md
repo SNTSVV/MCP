@@ -26,5 +26,6 @@ An up to date replicability package for MCP including the executable tool and in
 # Demo video
 
 Below, you can watch a video with MCP in action.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" marginwidth="pixels" allow="autoplay; encrypted-media"></iframe>
 
