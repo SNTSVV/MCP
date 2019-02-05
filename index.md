@@ -8,19 +8,19 @@ MCP relies on natural language processing techniques to extract the concepts (e.
 
 MCP deals with security testing and has been inspired by a previous work developed for functional tetsing, UMTG. The UMTG prototype is available along with demo videos at the following URL https://sites.google.com/site/umtgtestgen/ .
 
-**Publications
+## Publications
 
 A paper describing MCP has been accepted at ISSRE-2018, the paper is available at http://orbilu.uni.lu/handle/10993/36301.
 You can download an archive with the MCP results and the MCP tool from the following URL https://drive.google.com/open?id=17NFzK3wKVPhfXcVGfGN_NcA2yosZFLJt
 
 A paper the describing the MCP tool wil appear in the proceeding of ICSE 2019.
 
-**Downloads
+## Downloads
 
 An up to date replicability package for MCP including the executable tool and instructions is available for download on GitLab https://gitlab.com/SnTsvv/mcp_replicability/.
 
 
-**Demo video
+## Demo video
 
 Below, you can watch a video with MCP in action.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
