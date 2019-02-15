@@ -16,7 +16,8 @@ MCP deals with security testing and has been inspired by a previous work develop
 
 Below, you can watch a video with MCP in action.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ys5ESAMFH-Q" frameborder="0" marginwidth="pixels" allow="autoplay; encrypted-media"></iframe>
+{% include youtube.html id=uLIio468jWE %}
+
 
 
 # Downloads
