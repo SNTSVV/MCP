@@ -28,7 +28,7 @@ You can download an archive with the MCP results and the MCP tool from the follo
 
 # Downloads
 
-The up to date version of can be downloaded from Google drive at the following URL: https://drive.google.com/file/d/1mOqecqy7TfIw552lY5OKXePw5VubQBFv/view.
+The up to date version of MCP can be downloaded from Google drive at the following URL: https://drive.google.com/file/d/1mOqecqy7TfIw552lY5OKXePw5VubQBFv/view.
 
 The ISSRE 2018 replicability package is available for download on GitLab https://gitlab.com/SnTsvv/mcp_replicability/.
 
